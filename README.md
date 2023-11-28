@@ -33,3 +33,4 @@ Correlações Analisadas:
 - Entre a nota recebida e a localização.
 
 Para melhor experiencia de vizualização recomendo clicar no link do Google Colaboratory🌟
+Em caso de execução adicionar os 2 arquivos de dados no botão da pasta à direita
