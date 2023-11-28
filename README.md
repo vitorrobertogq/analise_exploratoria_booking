@@ -2,12 +2,14 @@
 
 📊 Análise de dados do site de hotéis Booking.com
 
-🛠️ Ferramentas utilizadas : Python e Jupyter Notebooks
-📚 Bibliotecas utilizadas : pandas para manipulação de dados
-                            matplotlib e folium para gráficos
-                            geopy para geolocalização
-                            unidecode e ast para formatar string
-                            IPython bibliteca nativa do python para display
+🛠️ Ferramentas utilizadas : 
+- Python e Jupyter Notebooks
+📚 Bibliotecas utilizadas : 
+- pandas para manipulação de dados
+- matplotlib e folium para gráficos
+- geopy para geolocalização
+- unidecode e ast para formatar string
+- IPython bibliteca nativa do python para display
 
 Para a execuçao do notebook se deve instalar todas as biblotecas citadas a cima com execeção da Ipython que é nativa,
 Para isso deve usar o comando pip install (nome da bibliotecas)
